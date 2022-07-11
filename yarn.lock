@@ -211,6 +211,11 @@
     "@radix-ui/react-primitive" "0.1.4"
     "@radix-ui/react-use-callback-ref" "0.1.0"
 
+"@radix-ui/react-icons@^1.1.1":
+  version "1.1.1"
+  resolved "https://globaldevtools.bbva.com/artifactory/api/npm/npm-repo/@radix-ui/react-icons/-/react-icons-1.1.1.tgz#38d2aa548035dd3b799c169bd17177b1cec3152b"
+  integrity sha1-ONKqVIA13Tt5nBab0XF3sc7DFSs=
+
 "@radix-ui/react-id@0.1.5":
   version "0.1.5"
   resolved "https://globaldevtools.bbva.com/artifactory/api/npm/npm-repo/@radix-ui/react-id/-/react-id-0.1.5.tgz#010d311bedd5a2884c1e9bb6aaaa4e6cc1d1d3b8"

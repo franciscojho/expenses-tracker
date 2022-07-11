@@ -5,14 +5,29 @@ export const { styled, getCssText } = createStitches({
     fonts: {
       system: 'sans-serif',
     },
-    colors: {
-      hiContrast: 'hsl(206,10%,5%)',
-      loContrast: 'white',
-    },
+    colors: {},
     fontSizes: {
-      1: '13px',
-      2: '15px',
-      3: '17px',
+      1: '12px',
+      2: '14px',
+      3: '16px',
+      4: '20px',
+      5: '24px',
+      6: '32px',
     },
+    space: {
+      1: '4px',
+      2: '8px',
+      3: '16px',
+      4: '32px',
+      5: '64px',
+      6: '128px',
+    },
+    shadows: {
+      lightBlackSmall: '0 0 10px rgba(0, 0, 0, 0.1)',
+    },
+  },
+  media: {
+    bp1: '(min-width: 640px)',
+    bp2: '(min-width: 768px)',
   },
 })
